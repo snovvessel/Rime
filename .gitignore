@@ -14,3 +14,7 @@ build
 
 # VSCode 项目文件
 *.code-workspace
+RimeControl.exe
+RimeControl.exe.config
+RimeControl.pdb
+Xceed.Wpf.Toolkit.dll
