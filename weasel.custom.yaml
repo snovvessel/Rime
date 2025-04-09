@@ -1,0 +1,19 @@
+customization:
+  distribution_code_name: Weasel
+  distribution_version: 0.16.3
+  generator: "Weasel::UIStyleSettings"
+  modified_time: "Wed Apr  9 16:51:21 2025"
+  rime_version: 1.11.2
+patch:
+  # 覆写亮色模式皮肤为 mint_light_blue(蓝水鸭)
+  "style/color_scheme": mint_light_blue
+  # 覆写亮色模式皮肤为 mint_dark_blue(黑水鸭)
+  "style/color_scheme_dark": mint_dark_blue
+  "style/font_face": "Segoe UI Emoji:30:39, Segoe UI Emoji:23:23, Segoe UI Emoji:2a:2a, Segoe UI Emoji:fe0f:fe0f, Segoe UI Emoji:20e3:20e3, Maple UI, Segoe UI Emoji, Noto Color Emoji"
+  "style/label_font_face": "Maple UI"
+  "style/comment_font_face": "Maple UI"
+  "style/font_point": 14
+  "style/label_font_point": 12
+  "style/comment_font_point": 12
+  "preset_color_schemes/mint_dark_blue/hilited_candidate_back_color": 0xB8B04B
+ 
